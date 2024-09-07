@@ -1,11 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=aa7bd9&height=150&section=header&text=Welcome%20to%20JeongSol's%20Github!&fontSize=36&animation=fadeIn" />
 
-<div>
-<section style="text-align: center">
+<div style = "align: center">
     <h3>Education</h3>
     <p>🎓 이화여자대학교 소프트웨어학부 컴퓨터공학전공 (2018.03 ~ 2023.08)<br/>💻 삼성 청년 SW 아카데미 11기 (2024.01 ~ )</p>
-    </section>
-    <section style="text-align: center">
     <h3>Skills</h3>
     <h5>Language</h5>
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +25,6 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-    </section>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S01-21&show_icons=true&theme=tokyonight) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lop080)](https://solved.ac/lop080)
