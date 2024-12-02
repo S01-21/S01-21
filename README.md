@@ -56,6 +56,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lop080)](https://solved.ac/lop080)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={lop080}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={lop080}&theme=warm"/>
 </div>
 
 <!--
