@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=aa7bd9&height=150&section=header&text=Welcome%20to%20JeongSol's%20Github!&fontSize=36&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=Transparent&color=aa7bd9&height=150&section=header&text=Welcome%20to%20JeongSol's%20Github!&fontSize=36&animation=fadeIn" />
 
 <div style="text-align: center">
 
@@ -55,8 +55,6 @@
 </table>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lop080)](https://solved.ac/lop080)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={lop080}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={lop080}&theme=warm"/>
 </div>
 
 <!--
