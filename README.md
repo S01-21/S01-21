@@ -4,8 +4,9 @@
 
 ## Education
 
-🎓 이화여자대학교 소프트웨어학부 컴퓨터공학전공 (2018.03 ~ 2023.08)  
-💻 삼성 청년 SW 아카데미 11기 (2024.01 ~ 2024.12)
+💻 삼성 청년 SW 아카데미 11기 (2024.01 ~ 2024.12) 최우수 수료 (상위 5%)   
+🎓 이화여자대학교 소프트웨어학부 컴퓨터공학전공 (2018.03 ~ 2023.08)   
+
 
 ## Skills
 
@@ -20,16 +21,21 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
     </td>
     <td>
 
 ### Framework
 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-BE3223?style=flat-square&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+
     </td>
   </tr>
   <tr>
@@ -54,20 +60,16 @@
   </tr>
 </table>
 
+## Awards
+
+🏆 **2024.11** SSAFY 2학기 자율 프로젝트 우수상  
+🏆 **2024.10** SSAFY 2학기 특화 프로젝트 우수상  
+🏆 **2024.08** SSAFY 2학기 공통 프로젝트 우수상  
+
+## Certificates
+
+📜 **2024.09** 정보처리기사  
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lop080)](https://solved.ac/lop080)
 </div>
 
-<!--
-**S01-21/S01-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
